@@ -1,0 +1,47 @@
+@media only screen and (max-width: 849px){
+    #log-first{
+        margin-right: 115px; 
+
+    }
+
+    #log-second{
+        display: none;
+    }
+
+    #first{
+        display: none;
+    }
+
+    #button{
+        display: none;
+    }
+
+    .navbar-brand{
+        margin-left: 160px;
+    }
+}  
+
+@media only screen and (max-width: 938px){
+    #button{
+        float: right;
+        justify-content: right;
+        margin-left: 250px;
+        display: none;
+    }
+
+    .navbar-toggler{
+        margin-left: 400px;
+    }
+}
+
+@media only screen and (max-width: 762px){
+    .navbar-toggler{
+        margin-left: 0;
+    }
+}
+
+@media only screen and (max-width: 502px){
+    #log-first{
+        margin-left: 15px;
+    }
+}

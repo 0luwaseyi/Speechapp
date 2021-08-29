@@ -1,0 +1,188 @@
+.art{
+    margin-left: 150px;
+    padding-bottom: 70%;
+    float: left;
+}
+
+img{
+    padding-top: 0;
+}
+
+#home{
+    justify-content: right;
+    color: #8266FF;
+}
+
+#button{
+    margin-right: 3vw;
+    background-color: #8266FF;
+    border-radius: 0.5em;
+    
+}
+
+#center{
+    color: #8266FF;
+    margin-left: 3vw;
+    font-family: cursive;
+}
+
+
+#first{
+    margin-right: 3vw;
+    border-radius: 0.5em;
+    color: #8266FF;
+}
+
+.text{
+    padding-top: 20%;
+    float: left;
+}
+
+h1{
+    color: #401C49;
+    padding-top: 5vw;
+}
+
+#pix{
+    float: left;
+}
+
+h4{
+    text-align: center;
+}
+
+
+
+#second-box{
+    background-color: #8266FF;
+}
+
+.log{
+    text-align: left;
+}
+
+#login{
+    padding-top: 5%;
+    background-color: #F2F2F2;
+    margin-top: 5vw;
+}
+
+#buttontwo{
+    background-color: #8266FF;
+    color: white;
+    width: 20%;
+    border-radius: 0.5em;
+    float: right;
+    margin-top: 1vw;
+    margin-bottom: 3vw;
+    height: 2.5vw;
+}
+
+.keep{
+    text-align: center;
+}
+
+
+#speechtt{
+    background-color: #F2F2F2;
+    height: 550px;
+    
+}
+
+#footer{
+    background-color: #8266FF;
+    padding-top: 2vw;
+    text-align: center;
+    color: white;
+
+}
+
+#second-box{
+    background-color: #8266FF;
+    border-radius: 1.5em;
+    border: 1px solid #8266FF;
+    margin-right: 150px;
+    color: white;
+    margin-top: 3%;
+}
+
+#first-box{
+    background-color: #fff;
+    border-radius: 1.5em;
+    border: 1px solid #fff;
+    margin-right: 50px;
+    margin-left: 150px;
+    color: #401C49;
+    margin-top: 3%;
+}
+
+#log-first{
+    background-color: #fff;
+    border: 1px solid #F2F2F2;
+    margin-left: 150px;
+    border-radius: 1.5em;
+    margin-bottom: 70px;
+    
+
+}
+
+#log-second{
+    background-color: #F2F2F2;
+    border: 1px solid #F2F2F2;
+}
+
+#button-get{
+    margin-right: 3vw;
+    background-color: #8266FF;
+    border-radius: 0.5em;
+    margin-bottom: 5%;
+}
+
+#exampleInputEmail1{
+    background-color: #F2F2F2;
+}
+
+#exampleInputPassword1{
+    background-color: #F2F2F2;
+}
+
+.form-label{
+    display: none;
+}
+
+.menu-content{
+    display: none;
+}
+
+
+a {
+    display: block;
+    position: relative;
+    padding: 0.2em 0;
+}
+
+a::after{
+    content: '';
+    position:absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 0.1em;
+    background-color:  #8266FF;
+    opacity: 0;
+    transition: opacity 300ms, transform 300ms;
+}
+
+a:hover::after,
+a:focus::after{
+    opacity: 1;
+    transform: translated(0, 0.2em, 0);
+}
+
+#first:hover{
+    background-color: #8266FF;
+    color: #fff;
+}
+
+
+
