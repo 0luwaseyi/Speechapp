@@ -1,4 +1,5 @@
 const texts = document.querySelector('.texts');
+/*const button = document.querySelector('.button');*/
 
 window.speechRecognition = window.speechRecognition || window.webkitSpeechRecognition;
 
@@ -32,4 +33,12 @@ recognition.addEventListener('end', ()=>{
     recognition.start();
 })
 
+/*button.addEventListener("click", function(){
+    recognition.start();
+})*/
+
 recognition.start();
+
+/*https://prod.liveshare.vsengsaas.visualstudio.com/join?6F51F588C636BF1993DD3AF5FDC98305C45C*/
+
+
