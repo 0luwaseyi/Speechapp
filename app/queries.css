@@ -1,0 +1,230 @@
+@media only screen and (max-width: 1399px){
+    #pix{
+        float: left;
+        width: 500px;
+        margin-right: 150px;
+    }
+
+}
+
+
+@media only screen and (max-width: 1200px){
+    #pix{
+        float: left;
+        width: 350px;
+        margin-right: 150px;
+    }
+
+    
+}
+
+@media only screen and (max-width: 1023px){
+    #pix{
+        display: none;
+    }
+    #first{
+        display: none;
+    }
+
+    #button{
+        display: none;
+    }
+
+    .navbar-brand{
+        padding-left: 180px;
+    }
+
+    .text{
+        padding-top: 10%;
+        float: left;
+        text-align: left;
+        padding-left: 20%;
+    }
+
+    #button-get{
+        margin-bottom: 5%;
+    }
+
+
+    #speechtt{
+        height: 600px;
+    }
+
+    #log-second{
+        display: none;
+    }
+
+    #log-first{
+        margin-left: 45px;
+        margin-bottom: 40px;
+    }
+
+    #buttontwo{
+        margin-bottom: 0;
+        max-height: 100%;
+        height: 20%;
+        max-width: 100%;
+        width: 20%;
+    }
+
+
+}
+
+@media only screen and (max-width: 767px){
+    #pix{
+        float: left;
+        width: 250px;
+        margin-right: 100px;
+    }
+    #pix{
+        display: none;
+    }
+    #first{
+        display: none;
+    }
+
+    #button{
+        display: none;
+    }
+
+    .navbar-brand{
+        padding-left: 150px;
+    }
+
+    .text{
+        text-align: justify;
+    }
+
+    #first-box{
+        width: 250px;
+        float: left;
+        margin-left: 50px;
+        margin-right: 20px;
+    }
+
+    #second-box{
+        width: 250px ;
+        float: left;
+        margin-right: 28px;
+        margin-left: 10%;
+        margin-top: 5%;
+
+    }
+
+    #log-first{
+        margin-bottom: 40px;
+    }
+
+    #speechtt{
+        height: 790px;
+    }
+
+ 
+}
+
+@media only screen and (max-width: 761px){
+    #speechtt{
+        height: 550px;
+    }
+    #first-box{
+        margin-top: 5%;
+    }
+
+    .text{
+        padding-left: 0;
+    }
+}
+
+@media only screen and (max-width: 727px){
+    #speechtt{
+        height: 600px;
+    }
+    #first-box{
+        margin-top: 5%;
+    }
+}
+
+@media only screen and (max-width:714px){
+    #speechtt{
+        height: 600px;
+    }
+
+    #first-box{
+        margin-top: 5%;
+    }
+}
+
+
+@media only screen and (max-width:577px){
+    #speechtt{
+        height: 600px;
+    }
+
+    #first-box{
+        margin-top: 5%;
+    }
+}
+
+@media only screen and (max-width:557px){
+    #speechtt{
+        height: 780px;
+    }
+
+    #first-box{
+        margin-top: 5%;
+    }
+}
+
+
+
+@media only screen and (max-width:540px){
+    #speechtt{
+        height: 780px;
+    }
+
+    #first-box{
+        margin-top: 5%;
+    }
+}
+
+@media only screen and (max-width: 480px){
+    #pix{
+        float: left;
+        width: 150px;
+        margin-right:120px ;
+    }
+
+    #pix{
+        display: none;
+    }
+    #first{
+        display: none;
+    }
+
+    #button{
+        display: none;
+    }
+
+    .navbar-brand{
+        padding-left: 100px;
+    }
+
+    .text{
+        text-align: justify;
+    }
+
+    #second-box{
+        margin-left: 15%;
+        margin-top: 10%;
+    }
+
+    #speechtt{
+        height: 800px;
+    }
+
+    .text{
+       text-align: justify; 
+       margin-left: 0;
+       padding-left: 10px;  
+    }
+}
